@@ -23,19 +23,20 @@ Data Sources:
 
 	Zipcode Csv file from USPS 	(https://tools.usps.com/go/ZipLookupAction_input)
 
-	Rental Data from City Data API (http://www.city-data.com/)
+	Rental Data from City Data API (http://www.city-data.com/
+	
+	Rental & Cost of Single Family House from Zillow
+	(https://www.zillow.com/howto/api/APIOverview.htm)
 
-Rental & Cost of Single Family House from Zillow
-(https://www.zillow.com/howto/api/APIOverview.htm)
+	Property Data from Quandl API
+	(https://www.quandl.com/tools/api)
 
-Property Data from Quandl API
-(https://www.quandl.com/tools/api)
+	Great Schools API (https://www.greatschools.org/)
 
-Great Schools API (https://www.greatschools.org/)
+	Crime Rate Data retrieved from Crime Rate website
+	(http://www.crimerate.com/)
 
-Crime Rate Data retrieved from Crime Rate website (http://www.crimerate.com/)
-
-Job Growth Data retrieved from Bureau of Labor Statistics (https://www.bls.gov/sae/#tables)
+	Job Growth Data retrieved from Bureau of Labor Statistics	(https://www.bls.gov/sae/#tables)
 
 Retrieval Methods:
 	
@@ -47,9 +48,10 @@ Retrieval Methods:
 
 	Converting HTML tags into text and selecting data using 	split function
 
-Converting unstructured scraped data using regular expressions
+	Converting unstructured scraped data using regular
+	expressions
 
-Python Pandas for aggregation and clean up of data
+	Python Pandas for aggregation and clean up of data
 
 Data Summary & Metrics
 
