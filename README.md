@@ -20,7 +20,8 @@ Factors considered for property investment:
 	Cost-to-Rent ratio
 
 Data Sources:
-Zipcode Csv file from USPS (https://tools.usps.com/go/ZipLookupAction_input)
+
+	Zipcode Csv file from USPS 	(https://tools.usps.com/go/ZipLookupAction_input)
 
 Rental Data from City Data API (http://www.city-data.com/)
 
