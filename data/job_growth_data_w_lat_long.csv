@@ -1,4 +1,4 @@
-,?zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population_2015,job_growth_per
+,zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population_2015,job_growth_per
 0,29001,STANDARD,0,Alcolu,,,SC,Clarendon County,America/New_York,803,,US,33.76,-80.15,1810,2.1
 1,29003,STANDARD,0,Bamberg,,Midway,SC,Bamberg County,America/New_York,803,,US,33.29,-81.03,4900,-0.7
 2,29006,STANDARD,0,Batesburg,"Batesburg-leesville, Batsbrg-levil","Holtson Crossroads, Kneece, New Holland Crossroads, Samaria, Summerland",SC,Lexington County,America/New_York,803,,US,33.9,-81.54,8070,-0.7
@@ -35,7 +35,7 @@
 33,29063,STANDARD,0,Irmo,,,SC,Richland County,America/New_York,,,US,34.09,-81.18,34790,-0.7
 34,29065,STANDARD,0,Jenkinsville,Monticello,,SC,Fairfield County,America/New_York,803,,US,34.25,-81.26,640,-0.7
 35,29067,STANDARD,0,Kershaw,,"Abney, Spring Mills, Taxahaw, White Bluff",SC,Lancaster County,America/New_York,803,,US,34.54,-80.58,7110,2.1
-36,29069,STANDARD,0,Lamar,,"Cypress Crossroads, Oats",SC,Darlington County,America/New_York,843,,US,34.16,-80.06,4030,0.7
+36,29069,STANDARD,0,Lamar,,"Cypress Crossroads, Oats",SC,Darlington County,America/New_York,843,,US,34.16,-80.06,4030,2.1
 37,29070,STANDARD,0,Leesville,"Batesburg-leesville, Batsbrg-levil","Delmar, Fairview Crossroads, Lake Murray Shores, Steedman, Summit",SC,Lexington County,America/New_York,803,,US,33.91,-81.51,13770,-0.7
 38,29072,STANDARD,0,Lexington,,"Barr, Edmund, Macedon, Red Bank",SC,Lexington County,America/New_York,803,,US,33.98,-81.22,55220,-0.7
 39,29073,STANDARD,0,Lexington,,,SC,Lexington County,America/New_York,803,,US,33.89,-81.24,39690,-0.7
@@ -53,7 +53,7 @@
 51,29111,STANDARD,0,New Zion,,"Oak Dale, Oakdale, Union Crossroads, Workman",SC,Clarendon County,America/New_York,,,US,33.77,-80.01,1290,2.1
 52,29112,STANDARD,0,North,,,SC,Orangeburg County,America/New_York,803,,US,33.61,-81.1,3710,-0.7
 53,29113,STANDARD,0,Norway,,,SC,Orangeburg County,America/New_York,803,,US,33.44,-81.12,1210,-0.7
-54,29114,STANDARD,0,Olanta,,Mckenzie Crossroads,SC,Florence County,America/New_York,843,,US,33.93,-79.93,1700,0.7
+54,29114,STANDARD,0,Olanta,,Mckenzie Crossroads,SC,Florence County,America/New_York,843,,US,33.93,-79.93,1700,2.1
 55,29115,STANDARD,0,Orangeburg,,"Bolen Town, Jamison, Pecan Way Terrace",SC,Orangeburg County,America/New_York,803,,US,33.49,-80.86,21330,-0.7
 56,29117,UNIQUE,0,Orangeburg,,Sc State University,SC,Orangeburg County,America/New_York,803,,US,33.5,-80.85,221,-0.7
 57,29118,STANDARD,0,Orangeburg,,,SC,Orangeburg County,America/New_York,803,,US,33.57,-80.89,13030,-0.7
@@ -77,7 +77,7 @@
 75,29153,STANDARD,0,Sumter,,,SC,Sumter County,America/New_York,803,,US,33.96,-80.31,13970,2.1
 76,29154,STANDARD,0,Sumter,,,SC,Sumter County,America/New_York,803,,US,33.88,-80.44,26580,2.1
 77,29160,STANDARD,0,Swansea,,,SC,Lexington County,America/New_York,803,,US,33.73,-81.1,6640,-0.7
-78,29161,STANDARD,0,Timmonsville,,"Cartersville, Peniel Crossroads, Sardis",SC,Florence County,America/New_York,843,,US,34.13,-79.94,9320,0.7
+78,29161,STANDARD,0,Timmonsville,,"Cartersville, Peniel Crossroads, Sardis",SC,Florence County,America/New_York,843,,US,34.13,-79.94,9320,2.1
 79,29162,STANDARD,0,Turbeville,,,SC,Clarendon County,America/New_York,843,,US,33.89,-80.01,2150,2.1
 80,29163,STANDARD,0,Vance,,,SC,Orangeburg County,America/New_York,803,,US,33.43,-80.42,1620,2.1
 81,29164,STANDARD,0,Wagener,,"Bethcar, H L Crossroads, New Holland, Rocky Springs, Seivern",SC,Aiken County,America/New_York,803,,US,33.65,-81.36,3710,-0.7
@@ -202,42 +202,42 @@
 200,29487,STANDARD,0,Wadmalaw Island,Wadmalaw Is,,SC,Charleston County,America/New_York,843,,US,32.68,-80.16,2340,1.5
 201,29488,STANDARD,0,Walterboro,Ritter,,SC,Colleton County,America/New_York,843,,US,32.9,-80.67,18220,1.6
 202,29492,STANDARD,0,Charleston,"Cainhoy, Daniel Island, Wando",,SC,Berkeley County,America/New_York,843,,US,32.9,-79.91,13980,1.5
-203,29501,STANDARD,0,Florence,,,SC,Florence County,America/New_York,843,,US,34.18,-79.78,38560,0.7
-204,29505,STANDARD,0,Florence,,,SC,Florence County,America/New_York,843,,US,34.13,-79.69,21090,0.7
-205,29506,STANDARD,0,Florence,Quinby,,SC,Florence County,America/New_York,843,,US,34.21,-79.65,15390,0.7
+203,29501,STANDARD,0,Florence,,,SC,Florence County,America/New_York,843,,US,34.18,-79.78,38560,2.1
+204,29505,STANDARD,0,Florence,,,SC,Florence County,America/New_York,843,,US,34.13,-79.69,21090,2.1
+205,29506,STANDARD,0,Florence,Quinby,,SC,Florence County,America/New_York,843,,US,34.21,-79.65,15390,2.7
 206,29510,STANDARD,0,Andrews,,,SC,Georgetown County,America/New_York,843,,US,33.44,-79.56,9140,2.7
 207,29511,STANDARD,0,Aynor,,,SC,Horry County,America/New_York,843,,US,33.99,-79.2,4710,2.7
-208,29512,STANDARD,0,Bennettsville,,,SC,Marlboro County,America/New_York,843,,US,34.63,-79.68,13010,0.7
-209,29516,STANDARD,0,Blenheim,,,SC,Marlboro County,America/New_York,843,,US,34.51,-79.65,660,0.7
-210,29518,STANDARD,0,Cades,,Hebron,SC,Williamsburg County,America/New_York,843,,US,33.79,-79.85,1050,0.7
-211,29520,STANDARD,0,Cheraw,,,SC,Chesterfield County,America/New_York,843,,US,34.69,-79.89,11300,0.7
-212,29525,STANDARD,0,Clio,,,SC,Marlboro County,America/New_York,843,,US,34.57,-79.54,1720,0.7
+208,29512,STANDARD,0,Bennettsville,,,SC,Marlboro County,America/New_York,843,,US,34.63,-79.68,13010,2.1
+209,29516,STANDARD,0,Blenheim,,,SC,Marlboro County,America/New_York,843,,US,34.51,-79.65,660,2.7
+210,29518,STANDARD,0,Cades,,Hebron,SC,Williamsburg County,America/New_York,843,,US,33.79,-79.85,1050,2.1
+211,29520,STANDARD,0,Cheraw,,,SC,Chesterfield County,America/New_York,843,,US,34.69,-79.89,11300,2.1
+212,29525,STANDARD,0,Clio,,,SC,Marlboro County,America/New_York,843,,US,34.57,-79.54,1720,2.7
 213,29526,STANDARD,0,Conway,,,SC,Horry County,America/New_York,843,,US,33.83,-79.04,33640,2.7
 214,29527,STANDARD,0,Conway,Bucksport,,SC,Horry County,America/New_York,843,,US,33.79,-79.15,19700,2.7
-215,29530,STANDARD,0,Coward,,,SC,Florence County,America/New_York,843,,US,33.97,-79.74,2300,0.7
-216,29532,STANDARD,0,Darlington,,,SC,Darlington County,America/New_York,843,,US,34.29,-79.87,15660,0.7
-217,29536,STANDARD,0,Dillon,Floyd Dale,Floyd Dl,SC,Dillon County,America/New_York,843,,US,34.42,-79.36,13630,0.7
-218,29540,STANDARD,0,Darlington,,,SC,Darlington County,America/New_York,843,,US,34.38,-79.85,5050,0.7
-219,29541,STANDARD,0,Effingham,,,SC,Florence County,America/New_York,843,,US,34.06,-79.74,7770,0.7
+215,29530,STANDARD,0,Coward,,,SC,Florence County,America/New_York,843,,US,33.97,-79.74,2300,2.1
+216,29532,STANDARD,0,Darlington,,,SC,Darlington County,America/New_York,843,,US,34.29,-79.87,15660,2.1
+217,29536,STANDARD,0,Dillon,Floyd Dale,Floyd Dl,SC,Dillon County,America/New_York,843,,US,34.42,-79.36,13630,2.7
+218,29540,STANDARD,0,Darlington,,,SC,Darlington County,America/New_York,843,,US,34.38,-79.85,5050,2.1
+219,29541,STANDARD,0,Effingham,,,SC,Florence County,America/New_York,843,,US,34.06,-79.74,7770,2.1
 220,29543,STANDARD,0,Fork,,,SC,Dillon County,America/New_York,843,,US,34.28,-79.27,410,2.7
 221,29544,STANDARD,0,Galivants Ferry,"Aynor, Galivants Fry",,SC,Horry County,America/New_York,843,,US,34.05,-79.24,4620,2.7
 222,29545,STANDARD,0,Green Sea,,,SC,Horry County,America/New_York,843,,US,34.16,-78.97,1420,2.7
 223,29546,STANDARD,0,Gresham,Brittons Neck,,SC,Marion County,America/New_York,843,,US,33.93,-79.41,2280,2.7
-224,29547,STANDARD,0,Hamer,"S Of Border, South Of The Border",,SC,Dillon County,America/New_York,843,,US,34.5,-79.33,2220,0.7
-225,29550,STANDARD,0,Hartsville,,,SC,Darlington County,America/New_York,843,,US,34.36,-80.08,25260,0.7
+224,29547,STANDARD,0,Hamer,"S Of Border, South Of The Border",,SC,Dillon County,America/New_York,843,,US,34.5,-79.33,2220,2.7
+225,29550,STANDARD,0,Hartsville,,,SC,Darlington County,America/New_York,843,,US,34.36,-80.08,25260,2.1
 226,29554,STANDARD,0,Hemingway,,Stuckey,SC,Williamsburg County,America/New_York,843,,US,33.75,-79.44,7420,2.7
 227,29555,STANDARD,0,Johnsonville,Poston,,SC,Florence County,America/New_York,843,,US,33.81,-79.44,5160,2.7
-228,29556,STANDARD,0,Kingstree,,,SC,Williamsburg County,America/New_York,843,,US,33.66,-79.82,9910,0.7
-229,29560,STANDARD,0,Lake City,,,SC,Florence County,America/New_York,843,,US,33.86,-79.75,11160,0.7
+228,29556,STANDARD,0,Kingstree,,,SC,Williamsburg County,America/New_York,843,,US,33.66,-79.82,9910,2.1
+229,29560,STANDARD,0,Lake City,,,SC,Florence County,America/New_York,843,,US,33.86,-79.75,11160,2.1
 230,29563,STANDARD,0,Lake View,,,SC,Dillon County,America/New_York,843,,US,34.34,-79.16,2090,2.7
 231,29564,STANDARD,0,Lane,,,SC,Williamsburg County,America/New_York,843,,US,33.52,-79.88,710,2.1
-232,29565,STANDARD,0,Latta,,,SC,Dillon County,America/New_York,843,,US,34.33,-79.43,5510,0.7
+232,29565,STANDARD,0,Latta,,,SC,Dillon County,America/New_York,843,,US,34.33,-79.43,5510,2.7
 233,29566,STANDARD,0,Little River,,,SC,Horry County,America/New_York,843,,US,33.87,-78.63,15800,2.7
-234,29567,STANDARD,0,Little Rock,,,SC,Dillon County,America/New_York,843,,US,34.56,-79.43,710,0.7
+234,29567,STANDARD,0,Little Rock,,,SC,Dillon County,America/New_York,843,,US,34.56,-79.43,710,2.7
 235,29568,STANDARD,0,Longs,,,SC,Horry County,America/New_York,843,,US,33.93,-78.73,11580,2.7
 236,29569,STANDARD,0,Loris,,,SC,Horry County,America/New_York,843,,US,34.05,-78.89,13950,2.7
-237,29570,STANDARD,0,Mc Coll,,Mccoll,SC,Marlboro County,America/New_York,843,,US,34.66,-79.54,3010,0.7
-238,29571,STANDARD,0,Marion,,,SC,Marion County,America/New_York,843,,US,34.17,-79.4,12530,0.7
+237,29570,STANDARD,0,Mc Coll,,Mccoll,SC,Marlboro County,America/New_York,843,,US,34.66,-79.54,3010,2.7
+238,29571,STANDARD,0,Marion,,,SC,Marion County,America/New_York,843,,US,34.17,-79.4,12530,2.7
 239,29572,STANDARD,0,Myrtle Beach,,,SC,Horry County,America/New_York,843,,US,33.77,-78.78,8450,2.7
 240,29574,STANDARD,0,Mullins,,,SC,Marion County,America/New_York,843,,US,34.2,-79.25,9050,2.7
 241,29575,STANDARD,0,Myrtle Beach,"Surfside Bch, Surfside Beach",Surfside,SC,Horry County,America/New_York,843,,US,33.63,-78.97,14840,2.7
@@ -247,15 +247,15 @@
 245,29580,STANDARD,0,Nesmith,,,SC,Williamsburg County,America/New_York,843,,US,33.65,-79.51,1000,2.7
 246,29581,STANDARD,0,Nichols,,,SC,Horry County,America/New_York,843,,US,34.23,-79.14,3470,2.7
 247,29582,STANDARD,0,North Myrtle Beach,"Atlantic Bch, Atlantic Beach, Cherry Grove, Cherry Grove Beach, N Myrtle Bch, Ocean Drive","Crescent Beach, N Myrtle Beach, Ocean Dr Beach, Ocean Drive Beach",SC,Horry County,America/New_York,843,,US,33.82,-78.67,14020,2.7
-248,29583,STANDARD,0,Pamplico,,,SC,Florence County,America/New_York,843,,US,33.99,-79.56,4180,0.7
-249,29584,STANDARD,0,Patrick,,,SC,Chesterfield County,America/New_York,843,,US,34.57,-80.04,1890,0.7
+248,29583,STANDARD,0,Pamplico,,,SC,Florence County,America/New_York,843,,US,33.99,-79.56,4180,2.7
+249,29584,STANDARD,0,Patrick,,,SC,Chesterfield County,America/New_York,843,,US,34.57,-80.04,1890,2.1
 250,29585,STANDARD,0,Pawleys Island,"Litchfield, N Litchfield, Pawleys Isl",Pawleys Is,SC,Georgetown County,America/New_York,843,,US,33.52,-79.14,13950,2.7
 251,29588,STANDARD,0,Myrtle Beach,,,SC,Horry County,America/New_York,843,,US,33.63,-79.02,38540,2.7
 252,29590,STANDARD,0,Salters,Trio,,SC,Williamsburg County,America/New_York,843,,US,33.59,-79.85,1860,2.1
-253,29591,STANDARD,0,Scranton,,,SC,Florence County,America/New_York,843,,US,33.91,-79.74,3850,0.7
-254,29592,STANDARD,0,Sellers,,,SC,Dillon County,America/New_York,843,,US,34.28,-79.47,930,0.7
-255,29593,STANDARD,0,Society Hill,,,SC,Darlington County,America/New_York,843,,US,34.5,-79.85,1550,0.7
-256,29596,STANDARD,0,Wallace,,,SC,Marlboro County,America/New_York,843,,US,34.72,-79.84,1860,0.7
+253,29591,STANDARD,0,Scranton,,,SC,Florence County,America/New_York,843,,US,33.91,-79.74,3850,2.1
+254,29592,STANDARD,0,Sellers,,,SC,Dillon County,America/New_York,843,,US,34.28,-79.47,930,2.7
+255,29593,STANDARD,0,Society Hill,,,SC,Darlington County,America/New_York,843,,US,34.5,-79.85,1550,2.1
+256,29596,STANDARD,0,Wallace,,,SC,Marlboro County,America/New_York,843,,US,34.72,-79.84,1860,2.1
 257,29601,STANDARD,0,Greenville,,Gville,SC,Greenville County,America/New_York,864,,US,34.85,-82.4,7900,2.5
 258,29605,STANDARD,0,Greenville,,Gville,SC,Greenville County,America/New_York,864,,US,34.77,-82.38,32250,2.5
 259,29607,STANDARD,0,Greenville,,"Batesville, Gville",SC,Greenville County,America/New_York,864,,US,34.83,-82.37,34640,2.5
@@ -327,7 +327,7 @@
 325,29706,STANDARD,0,Chester,,,SC,Chester County,America/New_York,803,,US,34.7,-81.21,16420,-0.7
 326,29707,STANDARD,0,Fort Mill,Indian Land,Ft Mill,SC,Lancaster County,America/New_York,803,,US,34.99,-80.86,25710,-0.7
 327,29708,STANDARD,0,Fort Mill,Tega Cay,Ft Mill,SC,York County,America/New_York,803,,US,35.05,-80.99,30240,2.0
-328,29709,STANDARD,0,Chesterfield,,,SC,Chesterfield County,America/New_York,843,,US,34.73,-80.08,5100,0.7
+328,29709,STANDARD,0,Chesterfield,,,SC,Chesterfield County,America/New_York,843,,US,34.73,-80.08,5100,2.1
 329,29710,STANDARD,0,Clover,"Lake Wylie, River Hills",Lk Wylie,SC,York County,America/New_York,803,,US,35.11,-81.22,30670,2.0
 330,29712,STANDARD,0,Edgemoor,,,SC,Chester County,America/New_York,803,,US,34.8,-81.01,2120,-0.7
 331,29714,STANDARD,0,Fort Lawn,,Ft Lawn,SC,Chester County,America/New_York,803,,US,34.7,-80.89,2470,-0.7
@@ -337,14 +337,14 @@
 335,29720,STANDARD,0,Lancaster,,,SC,Lancaster County,America/New_York,803,,US,34.72,-80.77,37910,-0.7
 336,29722,UNIQUE,0,Lancaster,,Hosiery Corp Of America,SC,Lancaster County,America/New_York,803,,US,34.72,-80.77,0,-0.7
 337,29726,STANDARD,0,Mc Connells,,Mcconnells,SC,York County,America/New_York,803,,US,34.86,-81.22,1570,2.0
-338,29727,STANDARD,0,Mount Croghan,,,SC,Chesterfield County,America/New_York,843,,US,34.76,-80.22,1170,0.7
-339,29728,STANDARD,0,Pageland,,,SC,Chesterfield County,America/New_York,843,,US,34.77,-80.38,7690,0.7
+338,29727,STANDARD,0,Mount Croghan,,,SC,Chesterfield County,America/New_York,843,,US,34.76,-80.22,1170,2.1
+339,29728,STANDARD,0,Pageland,,,SC,Chesterfield County,America/New_York,843,,US,34.77,-80.38,7690,2.1
 340,29729,STANDARD,0,Richburg,,,SC,Chester County,America/New_York,803,,US,34.71,-81.02,2060,-0.7
 341,29730,STANDARD,0,Rock Hill,,,SC,York County,America/New_York,803,,US,34.93,-81.02,47140,2.0
 342,29732,STANDARD,0,Rock Hill,,,SC,York County,America/New_York,803,,US,34.97,-81.08,53640,2.0
 343,29733,UNIQUE,0,Rock Hill,,"Winthrop University, Withrop College",SC,York County,America/New_York,803,,US,34.94,-81.03,119,2.0
 344,29734,STANDARD,0,Rock Hill,,,SC,York County,America/New_York,803,,US,34.93,-81.02,0,2.0
-345,29741,STANDARD,0,Ruby,,,SC,Chesterfield County,America/New_York,843,,US,34.74,-80.17,1550,0.7
+345,29741,STANDARD,0,Ruby,,,SC,Chesterfield County,America/New_York,843,,US,34.74,-80.17,1550,2.1
 346,29742,STANDARD,0,Sharon,,,SC,York County,America/New_York,"803,864",,US,34.95,-81.34,2100,2.0
 347,29743,STANDARD,0,Smyrna,,,SC,York County,America/New_York,"864,803",,US,35.04,-81.41,1020,2.0
 348,29745,STANDARD,0,York,,,SC,York County,America/New_York,803,,US,34.99,-81.23,27210,2.0
